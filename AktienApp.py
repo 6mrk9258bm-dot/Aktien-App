@@ -97,3 +97,5 @@ if has_data:
                     st.markdown(f"- [{title}]({url})")
         except Exception:
             st.write("News konnten nicht geladen werden.")
+
+#Bash: streamlit run "/Users/eileenikuye/Desktop/Mini Projekt/app.py"
