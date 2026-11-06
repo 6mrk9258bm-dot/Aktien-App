@@ -30,4 +30,4 @@ Installation & Nutzung
    streamlit run app.py
 
 Autorin:
-Eileen Ikuye – Wirtschaftsinformatik Studentin im 1. Semester
+Eileen Ikuye – Wirtschaftsinformatik Studentin im 3. Semester
